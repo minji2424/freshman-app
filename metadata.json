@@ -1,0 +1,6 @@
+{
+  "name": "토닥토닥 (Todak) - 사회초년생 멘탈케어 & 비즈니스 코치",
+  "description": "사회초년생의 불안과 실수를 보듬고 격려하는 따뜻한 챗봇과 마음 처방전, 비즈니스 언어 변환기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
